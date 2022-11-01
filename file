@@ -1,10 +1,10 @@
 # Decompiled by SK-SHOHID | SK-2.0
-# Github : https://github.com/htr-tech
+# Github : https://github.com/I-Love-You2/
 #---------------------------------------
 # Auto Dis Parser 2.2.0
 # Source File : brute_one.pyc
 # Bytecode Version : 2.0
-# Time : Sun Aug  9 12:16:53 2020
+# Time : Sun Nov  9 12:16:53 2022
 #---------------------------------------
 
 import os
@@ -41,7 +41,7 @@ def banner():
     print ' '
     runntxt(GL + '              \xf0\x9f\x94\xb0 WELCOME \xf0\x9f\x94\xb0')
     time.sleep(1.5)
-    runntxt(G + '  Baca Bismillah Dulu Agar Terhindar\n     Dari Perbuatan Kejahatan\n       ' + Y + 'Bismillahirohmanirohim\n')
+    runntxt(G + '  Baca Bismillah Dulu Agar Skshohid\n     Dari Perbuatan Kejahatan\n       ' + Y + 'Bismillahirohmanirohim\n')
     time.sleep(5)
     print G + '[RG.4]Black_Coder Team' + Y + '<<<' + GL + '\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x97'
     print R + 'Remaja berkarya            \xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92' + GL + '\xe2\x95\x91'
